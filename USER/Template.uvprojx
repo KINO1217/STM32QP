@@ -538,6 +538,11 @@
               <FileType>1</FileType>
               <FilePath>..\Sys\delay.c</FilePath>
             </File>
+            <File>
+              <FileName>iic.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Sys\iic.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
